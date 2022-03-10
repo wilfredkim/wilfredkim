@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineer 👋
 
 <!--
 **wilfredkim/wilfredkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Software Engineer with 4+ years of experience in the Software Engineering field. I am 
+proficient in Software development using Java Enterprise, Java, Spring Boot Framework, 
+Extended JavaScript framework (Ext JS), HTML, CSS, Bootstrap, AJAX, JavaScript, JSP, 
+jQuery, Relational Databases and Object Relational Mapping.
