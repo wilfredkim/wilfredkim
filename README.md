@@ -4,7 +4,7 @@
 -  🌱 Skills
      - Java Enterprise Edition(Java EE)
      - Java Standard Edition(Java SE)
-     - Spring Boor
+     - Spring Boot Framework
      - Microservice Architecture
      - Service Oriented Architecture(SOA)
      - Extended JavaScript framework (Ext JS)
