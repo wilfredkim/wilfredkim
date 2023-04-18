@@ -12,6 +12,8 @@
      - Javascript
      - Relational Databases - Oracle, Mysql & Postgres
      - NoSQL Database - MongoDb, Redis
+     - REST & SOAP
+     - TIBCO BW6
  - 📫 How to reach me:
      - Email: wilfredkim5@gmail.com
      - LinkedIn: https://www.linkedin.com/in/wilfred-kipngetich-1a7a90139/
