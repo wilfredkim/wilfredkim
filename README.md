@@ -1,5 +1,21 @@
 ### Software Engineer 👋
 
+-  🔭 Software Engineer with 5+ years of experience
+-  🌱 Skills
+     - Java Enterprise Edition(Java EE)
+     - Java Standard Edition(Java SE)
+     - Spring Boor
+     - Microservice Architecture
+     - Service Oriented Architecture(SOA)
+     - Extended JavaScript framework (Ext JS)
+     - HTML,CSS,Ajax,JQuery, JSP 
+     - Javascript
+     - Relational Databases - Oracle, Mysql & Postgres
+     - NoSQL Database - MongoDb, Redis
+ - 📫 How to reach me:
+     - Email: wilfredkim5@gmail.com
+     - LinkedIn: https://www.linkedin.com/in/wilfred-kipngetich-1a7a90139/
+
 <!--
 **wilfredkim/wilfredkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ I am a Software Engineer with 5+ years of experience in the Software Engineering field. I am 
-proficient in Software development using Java Enterprise, Java, Spring Boot Framework, 
-Extended JavaScript framework (Ext JS), HTML, CSS, Bootstrap, AJAX, JavaScript, JSP, 
-jQuery, Relational Databases and Object Relational Mapping.
+.
