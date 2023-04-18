@@ -8,7 +8,7 @@
      - Microservice Architecture
      - Service Oriented Architecture(SOA)
      - Extended JavaScript framework (Ext JS)
-     - HTML,CSS,Ajax,JQuery, JSP 
+     - HTML,CSS,Ajax,JQuery, JSP, React
      - Javascript
      - Relational Databases - Oracle, Mysql & Postgres
      - NoSQL Database - MongoDb, Redis
