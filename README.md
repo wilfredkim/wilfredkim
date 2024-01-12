@@ -18,7 +18,8 @@
      - Email: wilfredkim5@gmail.com
      - LinkedIn: https://www.linkedin.com/in/wilfred-kipngetich-1a7a90139/
 - 💬 Ask me about ...
-      - Code
+     - Code
+
 
 <!--
 **wilfredkim/wilfredkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
